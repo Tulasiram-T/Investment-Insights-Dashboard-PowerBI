@@ -68,4 +68,3 @@ The goal was to analyze investor demographics, preferences, and behaviors, and p
 
 ---
 
-## 📥 Files in This Repository
